@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue';
 import VueRouter from 'vue-router';
 import axios from 'axios';   //导入axios
-Vue.prototype.$http=axios;  //绑定到原型
+Vue.prototype.$http=axios;  //绑定到原型  
 
 
 
